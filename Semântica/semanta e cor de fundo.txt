@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body{
+    background-color: rgb(20, 168, 168);
+    }
+    </style>
+</head>
+<body>
+   <p>Eu moro na Rua <address> Augusto do joluio doos 1889</address>
+   </p>
+   </body>
+    
+</body>
+</html>

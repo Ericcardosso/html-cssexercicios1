@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos com html</title>
+</head>
+<body>
+    <h1> Inserindo videos hospedado localmente</h1>
+    <p>este video esta hospedado no meu servidor</p>
+    <video width="700" height="700" poster="Imagens/fotocafe.png" controls
+    <source src="Video/Video café.mp4"
+</video>
+</body>
+</html>

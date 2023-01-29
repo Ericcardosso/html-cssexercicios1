@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Materia de links </title>
+</head>
+<body>
+   <h1> sanddo links externos, </h1>
+ <p> você pode acessar o meu <a href=" http://netshoes.com.br" target="_blank"> repositorio público no github</a> </p>
+<p>Você tambem pode acessar esse meu outro video do <a href="http://youtube.com.br" target="_blank" rel=" external">    youtube</a> </p>
+
+
+</body>
+</html>
